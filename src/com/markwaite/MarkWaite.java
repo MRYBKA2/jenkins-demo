@@ -2,7 +2,7 @@ package com.markwaite;
 
 public class MarkWaite {
     public final String getName() {
-        return "Mark Waite";
+        return "Mark WaiteSSS";
     }
 
     public final String getBlogURL() {
